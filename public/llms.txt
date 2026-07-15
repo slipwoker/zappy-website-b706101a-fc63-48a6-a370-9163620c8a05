@@ -7,41 +7,41 @@
 ## Pages
 
 ### Home
-https://the-stocker-group-global-b706101a.zappy5.app
+https://example.com
 Execute your notary public power of attorney and more entirely online. Global RON services for US citizens, available near-round-the-clock. Get started in minutes.
 
 ### Services
-https://the-stocker-group-global-b706101a.zappy5.app/services
+https://example.com/services
 From notary public license law documents to loan signings and wills, explore our full spectrum of online notary services. Your comprehensive legal notary solution awaits.
 
 ### How It Works
-https://the-stocker-group-global-b706101a.zappy5.app/how-it-works
+https://example.com/how-it-works
 Discover how to notarize documents online effortlessly via Notarize, BlueNotary, or CyberizeIt. A fast, secure legal notary experience, no matter where you are.
 
 ### About
-https://the-stocker-group-global-b706101a.zappy5.app/about
+https://example.com/about
 Meet the authority behind your remote notary needs. We combine notary public license law expertise with global reach to deliver reliable, professional RON services.
 
 ### Contact
-https://the-stocker-group-global-b706101a.zappy5.app/contact
+https://example.com/contact
 Ready to handle your notary public power of attorney? Reach out now for prompt, secure online notary support. Your global legal notary is standing by 24/7.
 
 ### Thank You | The Stocker Group Global
-https://the-stocker-group-global-b706101a.zappy5.app/thank-you
+https://example.com/thank-you
 The Stocker Group Global - Thank You | The Stocker Group Global
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://the-stocker-group-global-b706101a.zappy5.app/privacy
+https://example.com/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://the-stocker-group-global-b706101a.zappy5.app/terms
+https://example.com/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://the-stocker-group-global-b706101a.zappy5.app/accessibility
+https://example.com/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
@@ -51,8 +51,8 @@ Information about WCAG compliance and accessibility features.
 - (No contact details configured yet.)
 
 ### Contact form
-- URL: https://the-stocker-group-global-b706101a.zappy5.app/contact
-- Endpoint: https://the-stocker-group-global-b706101a.zappy5.app/api/email/contact-form
+- URL: https://example.com/contact
+- Endpoint: https://example.com/api/email/contact-form
 - Method: POST
 - Content-Type: application/json
 - Fields:
@@ -99,6 +99,6 @@ Legal & Notary Services
 
 # Machine-readable feeds
 
-- Sitemap (XML): https://the-stocker-group-global-b706101a.zappy5.app/sitemap.xml
-- Robots: https://the-stocker-group-global-b706101a.zappy5.app/robots.txt
-- Flattened page text (for LLMs): https://the-stocker-group-global-b706101a.zappy5.app/llms-full.txt
+- Sitemap (XML): https://example.com/sitemap.xml
+- Robots: https://example.com/robots.txt
+- Flattened page text (for LLMs): https://example.com/llms-full.txt
