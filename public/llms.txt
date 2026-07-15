@@ -1,0 +1,104 @@
+# The Stocker Group Global — Generative Engine Optimization Map
+
+> A fully operational Remote Online Notary (RON) service offering a comprehensive range of notarial acts entirely online for US citizens worldwide through trusted platforms including Notarize/Proof, BlueNotary, and CyberizeIt. The service emphasizes global accessibility, near-round-the-clock availability, and a wide breadth of document types — from wills and trusts to passport certifications and loan signings. The brand projects professionalism, legal authority, and convenience, positioning itself as a reliable one-stop notary solution for clients regardless of their physical location.
+
+---
+
+## Pages
+
+### Home
+https://the-stocker-group-global-b706101a.zappy5.app
+Execute your notary public power of attorney and more entirely online. Global RON services for US citizens, available near-round-the-clock. Get started in minutes.
+
+### Services
+https://the-stocker-group-global-b706101a.zappy5.app/services
+From notary public license law documents to loan signings and wills, explore our full spectrum of online notary services. Your comprehensive legal notary solution awaits.
+
+### How It Works
+https://the-stocker-group-global-b706101a.zappy5.app/how-it-works
+Discover how to notarize documents online effortlessly via Notarize, BlueNotary, or CyberizeIt. A fast, secure legal notary experience, no matter where you are.
+
+### About
+https://the-stocker-group-global-b706101a.zappy5.app/about
+Meet the authority behind your remote notary needs. We combine notary public license law expertise with global reach to deliver reliable, professional RON services.
+
+### Contact
+https://the-stocker-group-global-b706101a.zappy5.app/contact
+Ready to handle your notary public power of attorney? Reach out now for prompt, secure online notary support. Your global legal notary is standing by 24/7.
+
+### Thank You | The Stocker Group Global
+https://the-stocker-group-global-b706101a.zappy5.app/thank-you
+The Stocker Group Global - Thank You | The Stocker Group Global
+
+## Legal & Policy
+
+### Privacy Policy
+https://the-stocker-group-global-b706101a.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://the-stocker-group-global-b706101a.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://the-stocker-group-global-b706101a.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## How to Contact Us
+
+- (No contact details configured yet.)
+
+### Contact form
+- URL: https://the-stocker-group-global-b706101a.zappy5.app/contact
+- Endpoint: https://the-stocker-group-global-b706101a.zappy5.app/api/email/contact-form
+- Method: POST
+- Content-Type: application/json
+- Fields:
+  - `name` (text)
+  - `email` (email)
+  - `phone` (tel)
+  - `message` (textarea)
+  - `privacy_consent` (checkbox)
+
+---
+
+# Business Context (for LLM understanding)
+
+## About The Stocker Group Global
+A fully operational Remote Online Notary (RON) service offering a comprehensive range of notarial acts entirely online for US citizens worldwide through trusted platforms including Notarize/Proof, BlueNotary, and CyberizeIt. The service emphasizes global accessibility, near-round-the-clock availability, and a wide breadth of document types — from wills and trusts to passport certifications and loan signings. The brand projects professionalism, legal authority, and convenience, positioning itself as a reliable one-stop notary solution for clients regardless of their physical location.
+
+## Services/Products
+- Acknowledgement Statement Notarization
+- Affidavit & Oath Notarization
+- Contract Notarization
+- Degree and Qualification Certification
+- Demand for Payment Notarization
+- Document Authenticity Certification
+- General Notarization
+- Jurat Notary Acknowledgements
+- Legal Certificate Notarization
+- Loan Notarization
+- Notary Signing Agent Services
+- Passport Certification
+- Powers of Attorney Document Notarization
+- Property and Escrow Document Notarization
+- Wills and Trust Notarizations
+
+## Target Audience
+- US citizens anywhere in the world needing notarization services
+- US Citizens Abroad
+- Remote Real Estate Buyers
+- Military Personnel & Families
+
+## Industry
+Legal & Notary Services
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://the-stocker-group-global-b706101a.zappy5.app/sitemap.xml
+- Robots: https://the-stocker-group-global-b706101a.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://the-stocker-group-global-b706101a.zappy5.app/llms-full.txt
